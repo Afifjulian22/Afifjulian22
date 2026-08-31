@@ -10,4 +10,4 @@ Bagi saya, *coding* bukan hanya sekadar menulis baris-baris instruksi untuk komp
 
 * 🌱 Saat ini sedang fokus belajar: **Godot Engine dan Web Development**
 * 💬 Tanyakan saya tentang: **PHP, HTML, CSS**
-* 📫 Cara menghubungi saya: **emailanda@gmail.com**
+* 📫 Cara menghubungi saya: **muhafifjulian@gmail.com**
