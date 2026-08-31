@@ -1,16 +1,13 @@
-## Hi there 👋
+<h3 align="center">Turning Coffee Into Code</h3>
 
-<!--
-**Afifjulian22/Afifjulian22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 👨‍💻 Selamat Datang
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Halo! 👋 Saya adalah seorang pengembang perangkat lunak yang memiliki minat sangat besar di dunia teknologi, khususnya dalam rekayasa perangkat lunak dan pengembangan web (Web Development). 
+
+Bagi saya, *coding* bukan hanya sekadar menulis baris-baris instruksi untuk komputer, melainkan sebuah seni untuk memecahkan masalah kompleks dan menciptakan solusi yang bermanfaat bagi banyak orang.
+
+* 🌱 Saat ini sedang fokus belajar: **Godot Engine dan Web Development**
+* 💬 Tanyakan saya tentang: **PHP, HTML, CSS**
+* 📫 Cara menghubungi saya: **emailanda@gmail.com**
