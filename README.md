@@ -2,7 +2,7 @@
 
 ---
 
-### 👨‍💻 Selamat Datang
+### 👨‍💻 Tentang saya
 
 Halo! 👋 Saya adalah seorang pengembang perangkat lunak yang memiliki minat sangat besar di dunia teknologi, khususnya dalam rekayasa perangkat lunak dan pengembangan web (Web Development). 
 
