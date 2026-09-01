@@ -1,4 +1,4 @@
-<img width="1500" height="500" alt="benner github" src="https://github.com/user-attachments/assets/795a8c69-7b14-4ab1-b46d-203b3396e00d" />
+<img width="1500" height="500" alt="bennergithub-ezgif com-loop-count" src="https://github.com/user-attachments/assets/1503f7f4-8741-40e5-8393-1572fd3a08ff" />
 
 <h3 align="center">Turning Coffee Into Code</h3>
 
