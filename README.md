@@ -1,3 +1,5 @@
+<img src="https://github.com/user-attachments/assets/895cec3f-9fe7-4061-b610-d748ac5a65d6" width="100%" alt="Banner Profil">
+
 <h3 align="center">Turning Coffee Into Code</h3>
 
 ---
