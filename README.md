@@ -1,4 +1,5 @@
-<img src="https://github.com/user-attachments/assets/0208e3f8-0a8b-4ef1-ac9e-2779aea100dd" width="100%" alt="Banner Profil Afif Julian">
+<img width="1500" height="500" alt="benner github" src="https://github.com/user-attachments/assets/795a8c69-7b14-4ab1-b46d-203b3396e00d" />
+
 <h3 align="center">Turning Coffee Into Code</h3>
 
 ---
