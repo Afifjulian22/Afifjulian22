@@ -11,3 +11,16 @@ Bagi saya, *coding* bukan hanya sekadar menulis baris-baris instruksi untuk komp
 * 🌱 Saat ini sedang fokus belajar: **Godot Engine dan Web Development**
 * 💬 Tanyakan saya tentang: **PHP, HTML, CSS**
 * 📫 Cara menghubungi saya: **muhafifjulian@gmail.com**
+
+<h3 align="center">🚀 Teknologi & Alat Tempur</h3>
+
+<p align="center">
+  <b>🌐 Frontend & UI</b><br>
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,figma" alt="Frontend Icons"><br><br>
+  
+  <b>⚙️ Backend & Database</b><br>
+  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,nodejs" alt="Backend Icons"><br><br>
+  
+  <b>🛠️ Tools & Version Control</b><br>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,godot,npm" alt="Tools Icons">
+</p>
