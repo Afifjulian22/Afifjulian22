@@ -25,5 +25,5 @@ Bagi saya, *coding* bukan hanya sekadar menulis baris-baris instruksi untuk komp
   <img src="https://skillicons.dev/icons?i=php,go,python,laravel,mysql,nodejs" alt="Backend Icons"><br><br>
   
   <b>🛠️ Tools & Version Control</b><br>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,godot,laragon" alt="Tools Icons">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,godot" alt="Tools Icons">
 </div>
