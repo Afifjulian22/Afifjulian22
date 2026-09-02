@@ -11,18 +11,19 @@ Bagi saya, *coding* bukan hanya sekadar menulis baris-baris instruksi untuk komp
 * 🌱 Saat ini sedang fokus belajar: **Godot Engine dan Web Development**
 * 💬 Tanyakan saya tentang: **PHP, HTML, CSS**
 * 📫 Cara menghubungi saya: **muhafifjulian@gmail.com**
-
-<h3 align="center">🚀 Tech Stack & Keahlian</h3>
-
-<div align="center">
-  <p><b>🌐 Frontend & UI</b></p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,figma" alt="Frontend Icons">
-  <br><br>
   
-  <p><b>⚙️ Backend & Database</b></p>
-  <img src="https://skillicons.dev/icons?i=php,go,python,laravel,mysql,nodejs" alt="Backend Icons">
-  <br><br>
+<h3 >🚀 Tech Stack & Keahlian</h3>
+<p>
+  Saya percaya bahwa bahasa pemrograman dan <i>framework</i> hanyalah alat, namun menguasainya dengan baik akan sangat membantu dalam merealisasikan ide. Berikut adalah beberapa teknologi yang biasa saya gunakan:
+</p>
+
+<p align="center">
+  <b>🌐 Frontend & UI</b><br>
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,figma" alt="Frontend Icons"><br><br>
   
-  <p><b>🛠️ Tools & Version Control</b></p>
+  <b>⚙️ Backend & Database</b><br>
+  <img src="https://skillicons.dev/icons?i=php,go,python,laravel,mysql,nodejs" alt="Backend Icons"><br><br>
+  
+  <b>🛠️ Tools & Version Control</b><br>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,godot,laragon" alt="Tools Icons">
-</div>
+</p>
