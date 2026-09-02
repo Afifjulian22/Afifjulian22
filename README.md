@@ -16,7 +16,7 @@ Bagi saya, *coding* bukan hanya sekadar menulis baris-baris instruksi untuk komp
 
 <div align="center">
   <p><b>🌐 Frontend & UI</b></p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,figma" alt="Frontend Icons">
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,figma" alt="Frontend Icons">
   <br><br>
   
   <p><b>⚙️ Backend & Database</b></p>
