@@ -1,14 +1,13 @@
 <img width="1500" height="500" alt="bennergithub-ezgif com-loop-count" src="https://github.com/user-attachments/assets/1503f7f4-8741-40e5-8393-1572fd3a08ff" />
 
 ---
-
 ### 👨‍💻 Sedikit tentang saya
 
-Halo! 👋 Saya adalah seorang pengembang perangkat lunak yang memiliki minat sangat besar di dunia teknologi, khususnya dalam rekayasa perangkat lunak dan pengembangan web (Web Development). 
+Halo! 👋 Selamat datang di ruang kerja digital saya. Saat ini, fokus belajar dan eksplorasi saya tertuju pada dua hal utama: membuat *website* dan merancang *game*. 
 
-Bagi saya, *coding* bukan hanya sekadar menulis baris-baris instruksi untuk komputer, melainkan sebuah seni untuk memecahkan masalah kompleks dan menciptakan solusi yang bermanfaat bagi banyak orang.
+Mengubah baris-baris kode menjadi sebuah aplikasi *web* yang berfungsi secara nyata atau sebuah *game* yang seru untuk dimainkan adalah tantangan yang sangat saya nikmati. Bagi saya, *coding* adalah seni memecahkan masalah sekaligus wadah untuk menuangkan ide-ide kreatif.
 
-* 🌱 Saat ini sedang fokus belajar: **Godot Engine dan Web Development**
+* 🌱 Saat ini sedang fokus belajar: **Web Development dan Game Development**
 * 💬 Tanyakan saya tentang: **PHP, HTML, CSS**
 * 📫 Cara menghubungi saya: **muhafifjulian@gmail.com**
   
