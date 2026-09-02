@@ -17,7 +17,7 @@ Bagi saya, *coding* bukan hanya sekadar menulis baris-baris instruksi untuk komp
   Saya percaya bahwa bahasa pemrograman dan <i>framework</i> hanyalah alat, namun menguasainya dengan baik akan sangat membantu dalam merealisasikan ide. Berikut adalah beberapa teknologi yang biasa saya gunakan:
 </p>
 
-<p align="center">
+<div align="center">
   <b>🌐 Frontend & UI</b><br>
   <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,figma" alt="Frontend Icons"><br><br>
   
@@ -26,4 +26,4 @@ Bagi saya, *coding* bukan hanya sekadar menulis baris-baris instruksi untuk komp
   
   <b>🛠️ Tools & Version Control</b><br>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,godot,laragon" alt="Tools Icons">
-</p>
+</div>
