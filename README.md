@@ -2,7 +2,7 @@
 
 ---
 
-### 👨‍💻 Tentang saya
+### 👨‍💻 Sedikit tentang saya
 
 Halo! 👋 Saya adalah seorang pengembang perangkat lunak yang memiliki minat sangat besar di dunia teknologi, khususnya dalam rekayasa perangkat lunak dan pengembangan web (Web Development). 
 
@@ -12,14 +12,17 @@ Bagi saya, *coding* bukan hanya sekadar menulis baris-baris instruksi untuk komp
 * 💬 Tanyakan saya tentang: **PHP, HTML, CSS**
 * 📫 Cara menghubungi saya: **muhafifjulian@gmail.com**
 
-<h3 align="center">🚀 Teknologi & Alat Tempur</h3>
+<h3 align="center">🚀 Tech Stack & Keahlian</h3>
 
-<p align="center">
-  <b>🌐 Frontend & UI</b><br>
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,figma" alt="Frontend Icons"><br><br>
+<div align="center">
+  <p><b>🌐 Frontend & UI</b></p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,figma" alt="Frontend Icons">
+  <br><br>
   
-  <b>⚙️ Backend & Database</b><br>
-  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,nodejs" alt="Backend Icons"><br><br>
+  <p><b>⚙️ Backend & Database</b></p>
+  <img src="https://skillicons.dev/icons?i=php,go,python,laravel,mysql,nodejs" alt="Backend Icons">
+  <br><br>
   
-  <b>🛠️ Tools & Version Control</b><br>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,godot,npm" alt="Tools Icons"></p>
+  <p><b>🛠️ Tools & Version Control</b></p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,godot,laragon" alt="Tools Icons">
+</div>
