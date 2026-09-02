@@ -1,7 +1,5 @@
 <img width="1500" height="500" alt="bennergithub-ezgif com-loop-count" src="https://github.com/user-attachments/assets/1503f7f4-8741-40e5-8393-1572fd3a08ff" />
 
-<h3 align="center">Turning Coffee Into Code</h3>
-
 ---
 
 ### 👨‍💻 Tentang saya
