@@ -19,11 +19,11 @@ Bagi saya, *coding* bukan hanya sekadar menulis baris-baris instruksi untuk komp
 
 <div align="center">
   <b>🌐 Frontend & UI</b><br>
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,figma" alt="Frontend Icons"><br><br></div>
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,figma" alt="Frontend Icons"><br><br>
   
- <div align="center"> <b>⚙️ Backend & Database</b><br>
-  <img src="https://skillicons.dev/icons?i=php,go,python,laravel,mysql,nodejs" alt="Backend Icons"><br><br></div>
+  <b>⚙️ Backend & Database</b><br>
+  <img src="https://skillicons.dev/icons?i=php,go,python,laravel,mysql,nodejs" alt="Backend Icons"><br><br>
   
-  <div align="center"><b>🛠️ Tools & Version Control</b><br>
+  <b>🛠️ Tools & Version Control</b><br>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,godot,laragon" alt="Tools Icons">
 </div>
