@@ -18,7 +18,7 @@ Mengubah baris-baris kode menjadi sebuah aplikasi *web* yang berfungsi secara ny
 
 <div align="center">
   <b>🌐 Frontend & UI</b><br><br>
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,figma" alt="Frontend Icons"><br><br>
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,figma" alt="Frontend Icons"><br>
   
   <b>⚙️ Backend & Database</b><br><br>
   <img src="https://skillicons.dev/icons?i=php,go,python,laravel,mysql,nodejs" alt="Backend Icons"><br>
