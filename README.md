@@ -1,4 +1,4 @@
-<a href="https://github.com/USERNAME_ANDA">
+<a href="https://github.com/Afifjulian22">
   <img width="1500" height="500" alt="bennergithub-ezgif com-loop-count" src="https://github.com/user-attachments/assets/1503f7f4-8741-40e5-8393-1572fd3a08ff" />
 </a>
 
@@ -18,13 +18,14 @@ Mengubah baris-baris kode menjadi sebuah aplikasi *web* yang berfungsi secara ny
   Saya percaya bahwa bahasa pemrograman dan <i>framework</i> hanyalah alat, namun menguasainya dengan baik akan sangat membantu dalam merealisasikan ide. Berikut adalah beberapa teknologi yang biasa saya gunakan:
 </p>
 
-<div align="center">
-  <b>🌐 Frontend & UI</b><br><br>
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,figma" alt="Frontend Icons"><br><br>
+<div align="center">  
+  <b>🌐 Frontend & UI</b><br><br><a href="https://github.com/USERNAME_ANDA">
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,figma" alt="Frontend Icons"><br><br></a>
   
-  <b>⚙️ Backend & Database</b><br><br>
-  <img src="https://skillicons.dev/icons?i=php,go,python,laravel,mysql,nodejs" alt="Backend Icons"><br>
+  <b>⚙️ Backend & Database</b><br><br><a href="https://github.com/USERNAME_ANDA">
+  <img src="https://skillicons.dev/icons?i=php,go,python,laravel,mysql,nodejs" alt="Backend Icons"><br></a>
   
-  <b>🛠️ Tools & Version Control</b><br><br>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,godot" alt="Tools Icons">
+  <b>🛠️ Tools & Version Control</b><br><br><a href="https://github.com/USERNAME_ANDA">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,godot" alt="Tools Icons"></a>
+  
 </div>
